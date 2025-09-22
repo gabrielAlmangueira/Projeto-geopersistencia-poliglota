@@ -1,0 +1,28 @@
+# Ignorar arquivos de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar ambiente virtual
+.venv/
+venv/
+ENV/
+
+
+# Ignorar arquivos de configuração do VSCode
+.vscode/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de dependências
+pip-wheel-metadata/
+
+# Ignorar arquivos de notebook checkpoints
+.ipynb_checkpoints/

@@ -1,0 +1,551 @@
+[
+    {
+        "nome_local": "Pelourinho",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9711,
+            "longitude": -38.5108
+        },
+        "descricao": "Centro histórico com casarões coloniais e cultura afro-brasileira."
+    },
+    {
+        "nome_local": "Elevador Lacerda",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9716,
+            "longitude": -38.5123
+        },
+        "descricao": "Elevador urbano que liga a cidade alta à cidade baixa."
+    },
+    {
+        "nome_local": "Farol da Barra",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -13.0102,
+            "longitude": -38.5326
+        },
+        "descricao": "Um dos pontos turísticos mais famosos de Salvador."
+    },
+    {
+        "nome_local": "Mercado Modelo",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9718,
+            "longitude": -38.5106
+        },
+        "descricao": "Mercado tradicional com artesanato e comidas típicas."
+    },
+    {
+        "nome_local": "Igreja do Bonfim",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9227,
+            "longitude": -38.5023
+        },
+        "descricao": "Igreja famosa pelas fitinhas coloridas."
+    },
+    {
+        "nome_local": "Praia do Farol da Barra",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -13.009,
+            "longitude": -38.532
+        },
+        "descricao": "Praia urbana próxima ao Farol da Barra."
+    },
+    {
+        "nome_local": "Praia de Itapuã",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9575,
+            "longitude": -38.4106
+        },
+        "descricao": "Praia imortalizada em músicas e poesias."
+    },
+    {
+        "nome_local": "Praia do Flamengo",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.8997,
+            "longitude": -38.3272
+        },
+        "descricao": "Praia tranquila com barracas tradicionais."
+    },
+    {
+        "nome_local": "Praia de Stella Maris",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.929,
+            "longitude": -38.3222
+        },
+        "descricao": "Praia extensa e muito frequentada por surfistas."
+    },
+    {
+        "nome_local": "Dique do Tororó",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9828,
+            "longitude": -38.5041
+        },
+        "descricao": "Lagoa com esculturas dos orixás."
+    },
+    {
+        "nome_local": "Arena Fonte Nova",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -12.9781,
+            "longitude": -38.5044
+        },
+        "descricao": "Estádio de futebol, palco de grandes eventos."
+    },
+    {
+        "nome_local": "Praia do Forte",
+        "cidade": "Mata de São João",
+        "coordenadas": {
+            "latitude": -12.575,
+            "longitude": -38.0
+        },
+        "descricao": "Vila turística famosa pelo Projeto Tamar."
+    },
+    {
+        "nome_local": "Ilha de Itaparica",
+        "cidade": "Itaparica",
+        "coordenadas": {
+            "latitude": -12.8836,
+            "longitude": -38.6767
+        },
+        "descricao": "Ilha paradisíaca próxima a Salvador."
+    },
+    {
+        "nome_local": "Chapada Diamantina - Lençóis",
+        "cidade": "Lençóis",
+        "coordenadas": {
+            "latitude": -12.5611,
+            "longitude": -41.3919
+        },
+        "descricao": "Destino de ecoturismo com trilhas e cachoeiras."
+    },
+    {
+        "nome_local": "Morro de São Paulo",
+        "cidade": "Cairu",
+        "coordenadas": {
+            "latitude": -13.3778,
+            "longitude": -38.9106
+        },
+        "descricao": "Destino turístico com praias paradisíacas."
+    },
+    {
+        "nome_local": "Praia de Porto da Barra",
+        "cidade": "Salvador",
+        "coordenadas": {
+            "latitude": -13.0105,
+            "longitude": -38.5329
+        },
+        "descricao": "Uma das praias mais movimentadas de Salvador."
+    },
+    {
+        "nome_local": "Praia de Tambaú",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1153,
+            "longitude": -34.8328
+        },
+        "descricao": "Praia famosa com quiosques e vida noturna."
+    },
+    {
+        "nome_local": "Praia do Bessa",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.0825,
+            "longitude": -34.8333
+        },
+        "descricao": "Praia tranquila, ótima para famílias."
+    },
+    {
+        "nome_local": "Praia de Cabo Branco",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1464,
+            "longitude": -34.7941
+        },
+        "descricao": "Ponto turístico com falésias e farol."
+    },
+    {
+        "nome_local": "Estação Cabo Branco",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1525,
+            "longitude": -34.8019
+        },
+        "descricao": "Centro cultural projetado por Oscar Niemeyer."
+    },
+    {
+        "nome_local": "Farol do Cabo Branco",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1591,
+            "longitude": -34.7933
+        },
+        "descricao": "Ponto extremo oriental das Américas."
+    },
+    {
+        "nome_local": "Praia de Manaíra",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1075,
+            "longitude": -34.8322
+        },
+        "descricao": "Praia urbana com bares e restaurantes próximos."
+    },
+    {
+        "nome_local": "Parque Solon de Lucena",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1205,
+            "longitude": -34.8733
+        },
+        "descricao": "Conhecido como Lagoa, é cartão postal da cidade."
+    },
+    {
+        "nome_local": "Centro Histórico",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1211,
+            "longitude": -34.8765
+        },
+        "descricao": "Área com casarões antigos e igrejas históricas."
+    },
+    {
+        "nome_local": "Igreja de São Francisco",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1219,
+            "longitude": -34.8789
+        },
+        "descricao": "Igreja barroca do século XVIII."
+    },
+    {
+        "nome_local": "Praia de Jacaré",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.065,
+            "longitude": -34.8417
+        },
+        "descricao": "Famosa pelo pôr do sol ao som do Bolero de Ravel."
+    },
+    {
+        "nome_local": "Praia de Seixas",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1598,
+            "longitude": -34.793
+        },
+        "descricao": "Praia no ponto mais oriental das Américas."
+    },
+    {
+        "nome_local": "Estádio Almeidão",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1832,
+            "longitude": -34.865
+        },
+        "descricao": "Estádio José Américo de Almeida Filho."
+    },
+    {
+        "nome_local": "Jardim Botânico Benjamim Maranhão",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.138,
+            "longitude": -34.8769
+        },
+        "descricao": "Reserva de mata atlântica preservada."
+    },
+    {
+        "nome_local": "Shopping Manaíra",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.099,
+            "longitude": -34.8305
+        },
+        "descricao": "Um dos maiores shoppings da cidade."
+    },
+    {
+        "nome_local": "Shopping Tambiá",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1225,
+            "longitude": -34.873
+        },
+        "descricao": "Shopping tradicional da cidade."
+    },
+    {
+        "nome_local": "Bica - Parque Arruda Câmara",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1283,
+            "longitude": -34.872
+        },
+        "descricao": "Zoológico e área de lazer."
+    },
+    {
+        "nome_local": "Praia do Cabo Branco",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.15,
+            "longitude": -34.7935
+        },
+        "descricao": "Praia extensa e movimentada."
+    },
+    {
+        "nome_local": "Praia de Coqueirinho",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.3111,
+            "longitude": -34.8033
+        },
+        "descricao": "Praia paradisíaca com falésias."
+    },
+    {
+        "nome_local": "Praia de Tambaba",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.35,
+            "longitude": -34.8
+        },
+        "descricao": "Praia de naturismo reconhecida mundialmente."
+    },
+    {
+        "nome_local": "Praia de Cabo Branco - Estação",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1522,
+            "longitude": -34.8002
+        },
+        "descricao": "Área próxima da Estação Cabo Branco."
+    },
+    {
+        "nome_local": "Usina Cultural Energisa",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1209,
+            "longitude": -34.8735
+        },
+        "descricao": "Centro cultural e de eventos."
+    },
+    {
+        "nome_local": "Praça Antenor Navarro",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.12,
+            "longitude": -34.878
+        },
+        "descricao": "Praça histórica com casarões coloridos."
+    },
+    {
+        "nome_local": "Hotel Tambaú",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.115,
+            "longitude": -34.8325
+        },
+        "descricao": "Hotel icônico da cidade."
+    },
+    {
+        "nome_local": "Museu José Lins do Rego",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1227,
+            "longitude": -34.845
+        },
+        "descricao": "Museu dedicado ao escritor paraibano."
+    },
+    {
+        "nome_local": "Praia Formosa",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.13,
+            "longitude": -34.85
+        },
+        "descricao": "Praia com águas tranquilas."
+    },
+    {
+        "nome_local": "Praia do Seixas - Piscinas Naturais",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1605,
+            "longitude": -34.7925
+        },
+        "descricao": "Piscinas naturais na maré baixa."
+    },
+    {
+        "nome_local": "Cabo Branco Science Station",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1528,
+            "longitude": -34.8005
+        },
+        "descricao": "Estação de ciência e cultura."
+    },
+    {
+        "nome_local": "Centro de Convenções de João Pessoa",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.154,
+            "longitude": -34.835
+        },
+        "descricao": "Espaço para feiras e congressos."
+    },
+    {
+        "nome_local": "Feirinha de Tambaú",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1148,
+            "longitude": -34.8315
+        },
+        "descricao": "Feira de artesanato e comidas típicas."
+    },
+    {
+        "nome_local": "Mercado Central",
+        "cidade": "João Pessoa",
+        "coordenadas": {
+            "latitude": -7.1205,
+            "longitude": -34.876
+        },
+        "descricao": "Mercado tradicional com produtos locais."
+    },
+    {
+        "nome_local": "Marco Zero",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0632,
+            "longitude": -34.8711
+        },
+        "descricao": "Praça histórica no centro da cidade, ponto inicial das distâncias em Recife."
+    },
+    {
+        "nome_local": "Praia de Boa Viagem",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.1217,
+            "longitude": -34.9009
+        },
+        "descricao": "Principal praia urbana de Recife, famosa por seus arrecifes."
+    },
+    {
+        "nome_local": "Instituto Ricardo Brennand",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0476,
+            "longitude": -34.978
+        },
+        "descricao": "Instituto cultural com acervo de arte, armas e biblioteca."
+    },
+    {
+        "nome_local": "Oficina Brennand",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0647,
+            "longitude": -34.959
+        },
+        "descricao": "Ateliê do artista Francisco Brennand, com esculturas e cerâmicas."
+    },
+    {
+        "nome_local": "Paço do Frevo",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.063,
+            "longitude": -34.8716
+        },
+        "descricao": "Centro cultural dedicado ao frevo, ritmo musical tradicional."
+    },
+    {
+        "nome_local": "Museu Cais do Sertão",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0634,
+            "longitude": -34.8713
+        },
+        "descricao": "Museu interativo sobre a cultura do sertão nordestino."
+    },
+    {
+        "nome_local": "Rua do Bom Jesus",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0617,
+            "longitude": -34.8712
+        },
+        "descricao": "Rua histórica conhecida pela sinagoga mais antiga das Américas."
+    },
+    {
+        "nome_local": "Sinagoga Kahal Zur Israel",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.062,
+            "longitude": -34.8715
+        },
+        "descricao": "Primeira sinagoga das Américas, hoje transformada em centro cultural."
+    },
+    {
+        "nome_local": "Parque da Jaqueira",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0377,
+            "longitude": -34.9023
+        },
+        "descricao": "Maior parque urbano de Recife, com áreas de lazer e esportes."
+    },
+    {
+        "nome_local": "Basílica de Nossa Senhora do Carmo",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.064,
+            "longitude": -34.878
+        },
+        "descricao": "Igreja barroca do século XVII localizada no centro da cidade."
+    },
+    {
+        "nome_local": "Forte das Cinco Pontas",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0714,
+            "longitude": -34.8786
+        },
+        "descricao": "Forte histórico construído pelos holandeses em 1630."
+    },
+    {
+        "nome_local": "Teatro de Santa Isabel",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.06,
+            "longitude": -34.8805
+        },
+        "descricao": "Um dos teatros mais antigos e importantes do Brasil."
+    },
+    {
+        "nome_local": "Praça do Arsenal",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.063,
+            "longitude": -34.872
+        },
+        "descricao": "Praça central, palco de eventos culturais."
+    },
+    {
+        "nome_local": "Igreja Madre de Deus",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0634,
+            "longitude": -34.873
+        },
+        "descricao": "Igreja histórica no Recife Antigo, de estilo barroco."
+    },
+    {
+        "nome_local": "Capela Dourada",
+        "cidade": "Recife",
+        "coordenadas": {
+            "latitude": -8.0628,
+            "longitude": -34.8773
+        },
+        "descricao": "Igreja com interior ricamente decorado com ouro."
+    }
+]
